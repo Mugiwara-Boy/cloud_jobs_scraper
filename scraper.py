@@ -28,6 +28,15 @@ async def fetch_jobs(session, url, company, ats_type):
                                 'title': job.get('text'),
                                 'url': job.get('hostedUrl')
                             })
+                elif ats_type == "ashby":
+                    for job in data.get('jobs', []):
+                        t = job.get('title', '').lower()
+                        if re.search(r'\b(event|events|field marketing|experiential)\b', t):
+                            results.append({
+                                'company': company.upper(),
+                                'title': job.get('title'),
+                                'url': job.get('jobUrl')
+                            })
                 return results
     except Exception:
         return []
@@ -37,11 +46,30 @@ async def main():
     print("Fetching company lists...")
     gh_req = urllib.request.urlopen(urllib.request.Request("https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/greenhouse_companies.json", headers={"User-Agent": "Mozilla/5.0"}))
     lv_req = urllib.request.urlopen(urllib.request.Request("https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/lever_companies.json", headers={"User-Agent": "Mozilla/5.0"}))
+    ashby_req = urllib.request.urlopen(urllib.request.Request("https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/ashby_companies.json", headers={"User-Agent": "Mozilla/5.0"}))
+    
     gh_companies = json.loads(gh_req.read().decode())
     lv_companies = json.loads(lv_req.read().decode())
     
+    # If Feashliaa doesn't have ashby_companies.json, we fallback to a curated tech list
+    try:
+        ashby_companies = json.loads(ashby_req.read().decode())
+    except:
+        # Fallback hardcoded list of major Ashby tech companies
+        ashby_companies = ["notion", "vercel", "linear", "deel", "anthropic", "scale", "gong", "canva", "figma", "ramp", "rippling", "clickup", "navan", "airtable", "webflow"]
+
+    # Load custom targeted companies if they exist
+    try:
+        with open('custom_companies.txt', 'r') as f:
+            custom = [line.strip() for line in f if line.strip()]
+            gh_companies.extend(custom)
+            lv_companies.extend(custom)
+            ashby_companies.extend(custom)
+    except FileNotFoundError:
+        pass
+    
     tasks = []
-    print(f"Loaded {len(gh_companies) + len(lv_companies)} companies. Scanning...")
+    print(f"Loaded {len(gh_companies) + len(lv_companies) + len(ashby_companies)} total ATS targets. Scanning...")
     
     connector = aiohttp.TCPConnector(limit=100)
     async with aiohttp.ClientSession(connector=connector) as session:
@@ -51,6 +79,9 @@ async def main():
         for c in lv_companies:
             url = f"https://api.lever.co/v0/postings/{c}"
             tasks.append(fetch_jobs(session, url, c, "lever"))
+        for c in ashby_companies:
+            url = f"https://api.ashbyhq.com/posting-api/job-board/{c}"
+            tasks.append(fetch_jobs(session, url, c, "ashby"))
             
         results = await asyncio.gather(*tasks)
         
