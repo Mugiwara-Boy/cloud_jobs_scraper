@@ -89,7 +89,6 @@ async def main():
     
     connector = aiohttp.TCPConnector(limit=100)
     async with aiohttp.ClientSession(connector=connector) as session:
-        # Standard lists map 1:1 to their ATS to save requests
         for c in gh_companies:
             tasks.append(fetch_jobs(session, c, "greenhouse"))
         for c in lv_companies:
@@ -99,7 +98,6 @@ async def main():
         for c in sr_companies:
             tasks.append(fetch_jobs(session, c, "smartrecruiters"))
             
-        # For custom companies, we brute force all 4 ATS types to find where they host jobs!
         for c in custom:
             tasks.append(fetch_jobs(session, c, "greenhouse"))
             tasks.append(fetch_jobs(session, c, "lever"))
@@ -115,29 +113,34 @@ async def main():
     except:
         history = []
 
-    new_jobs = []
+    new_jobs_candidates = []
     for r in results:
         if r:
             for j in r:
-                # Extract ID from URL for deduplication
                 match = re.search(r'([A-Za-z0-9-]+)/?$', j['url'])
                 if match:
                     job_id = match.group(1)
                     if job_id not in history:
-                        new_jobs.append(j)
-                        history.append(job_id)
+                        new_jobs_candidates.append({'job_id': job_id, 'data': j})
+
+    # HARD LIMIT: 4 JOBS MAX PER DAY
+    new_jobs_candidates = new_jobs_candidates[:4]
+
+    for item in new_jobs_candidates:
+        history.append(item['job_id'])
 
     with open('history.json', 'w') as f:
         json.dump(history, f)
         
-    print(f"Found {len(new_jobs)} NEW jobs!")
+    print(f"Found {len(new_jobs_candidates)} NEW jobs!")
     
     with open('LATEST_JOBS.md', 'w') as f:
         f.write("# LATEST JOBS TO BE PROCESSED BY CLAUDE\n\n")
-        if not new_jobs:
+        if not new_jobs_candidates:
             f.write("No new jobs today.\n")
         else:
-            for j in new_jobs:
+            for item in new_jobs_candidates:
+                j = item['data']
                 f.write(f"- {j['company']}: {j['title']} | {j['url']}\n")
 
 if __name__ == "__main__":
