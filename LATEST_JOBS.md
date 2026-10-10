@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- AEGWORLDWIDE: Event Guest Services Staff - Texas Trust CU Theatre Grand Prairie  | https://job-boards.greenhouse.io/aegworldwide/jobs/5382317002
-- AEGWORLDWIDE: Event Production Staff - Pacific Northwest | https://job-boards.greenhouse.io/aegworldwide/jobs/8156007002
-- AEGWORLDWIDE: Event Production Staff - Rocky Mountains | https://job-boards.greenhouse.io/aegworldwide/jobs/8623062002
-- AEGWORLDWIDE: Event Security & Guest Services Staff - Rocky Mountains | https://job-boards.greenhouse.io/aegworldwide/jobs/8614714002
+- ABNORMALSECURITY: Corporate Events Specialist, EMEA | https://abnormal.ai/careers/jobs/8019603003?gh_jid=8019603003
+- ABNORMALSECURITY: Corporate Events Specialist, EMEA | https://abnormal.ai/careers/jobs/8019820003?gh_jid=8019820003
+- ACORNHEALTH: Hiring Event - Behavior Technician | https://job-boards.greenhouse.io/acornhealth/jobs/4742627005
+- AEGWORLDWIDE: Event Staff Ford Amphitheater - Rocky Mountains | https://job-boards.greenhouse.io/aegworldwide/jobs/7470488002
