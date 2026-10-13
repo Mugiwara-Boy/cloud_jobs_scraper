@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- ABNORMALSECURITY: Corporate Events Specialist, EMEA | https://abnormal.ai/careers/jobs/8019603003?gh_jid=8019603003
-- ABNORMALSECURITY: Corporate Events Specialist, EMEA | https://abnormal.ai/careers/jobs/8019820003?gh_jid=8019820003
-- ACORNHEALTH: Hiring Event - Behavior Technician | https://job-boards.greenhouse.io/acornhealth/jobs/4742627005
-- AEGWORLDWIDE: Event Staff Ford Amphitheater - Rocky Mountains | https://job-boards.greenhouse.io/aegworldwide/jobs/7470488002
+- AEGWORLDWIDE: Guest Services Event Staff - Bowery Presents | Flushing Meadows Corona Park | https://job-boards.greenhouse.io/aegworldwide/jobs/8769934002
+- AEGWORLDWIDE: Guest Services Event Staff - Bowery Presents | Under the K Bridge | https://job-boards.greenhouse.io/aegworldwide/jobs/8190216002
+- AEGWORLDWIDE: Manager, Sales - Special Events - Resorts World Theatre (Las Vegas) | https://job-boards.greenhouse.io/aegworldwide/jobs/8501059002
+- AEGWORLDWIDE: Part-Time Event Support Technician (Crypto.com Arena) | https://job-boards.greenhouse.io/aegworldwide/jobs/8815472002
