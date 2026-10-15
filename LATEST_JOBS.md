@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- AGODA: Manager, B2B Event Marketing (Bangkok Based, relocation provided) | https://job-boards.greenhouse.io/agoda/jobs/8184805
-- AGODA: Manager, B2B Events & Experiential Marketing (Bangkok Based, relocation provided) | https://job-boards.greenhouse.io/agoda/jobs/8232698
-- AGODA: Manager, B2B Experiential Marketing (Bangkok Based, relocation provided) | https://job-boards.greenhouse.io/agoda/jobs/8232693
-- AGODA: Manager, Experiential Marketing & Events (Bangkok Based, relocation provided) | https://job-boards.greenhouse.io/agoda/jobs/8232696
+- AGODA: Manager, Experiential Marketing & Partnerships (Bangkok Based, relocation provided) | https://job-boards.greenhouse.io/agoda/jobs/8232700
+- AHREFSJOBS: Events Marketing Executive | https://job-boards.greenhouse.io/ahrefsjobs/jobs/6005637004
+- ALFREDBENESCHCO: Transit Event Customer Service | https://www.benesch.com/job-openings/4029269007?gh_jid=4029269007
+- ALLIANCEDEFENDINGFREEDOM: Event Technology Coordinator | https://job-boards.greenhouse.io/alliancedefendingfreedom/jobs/5390725008?gh_jid=5390725008
