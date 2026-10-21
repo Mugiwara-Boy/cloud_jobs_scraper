@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- ABNORMALSECURITY: Strategic Events Manager, APJ | https://abnormal.ai/careers/jobs/8037221003?gh_jid=8037221003
-- AIVEN36: Senior Field Marketing Manager | https://aiven.io/careers/job/4792883101?gh_jid=4792883101
-- AIPCONNECT: Promotional Event Ambassadors (National Roles Available) | https://jobs.lever.co/aipconnect/f18bf788-2832-41d8-935d-b7de35984fe4
-- ALDAR: Assistant Vice President - Events | https://jobs.lever.co/aldar/a58b2c90-9445-4b95-8ba3-1acac4d8a1d8
+- SSREFERRALS: Senior Field Marketing Strategist (Account Based Experience / ABX) | https://sproutsocial.com/careers/open-positions/8289416?gh_jid=8289416
+- STARBURST: Sr Field Marketing Manager | https://job-boards.greenhouse.io/starburst/jobs/5392581008
+- STORYCANNABIS: Story Cannabis Hiring Event – Columbus & Dublin Locations  | https://job-boards.greenhouse.io/storycannabis/jobs/5455989008
+- STRATEGICHR: Operations & Events Coordinator | https://job-boards.greenhouse.io/strategichr/jobs/8004497003
