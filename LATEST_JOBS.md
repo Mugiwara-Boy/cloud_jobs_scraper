@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- SSREFERRALS: Senior Field Marketing Strategist (Account Based Experience / ABX) | https://sproutsocial.com/careers/open-positions/8289416?gh_jid=8289416
-- STARBURST: Sr Field Marketing Manager | https://job-boards.greenhouse.io/starburst/jobs/5392581008
-- STORYCANNABIS: Story Cannabis Hiring Event – Columbus & Dublin Locations  | https://job-boards.greenhouse.io/storycannabis/jobs/5455989008
-- STRATEGICHR: Operations & Events Coordinator | https://job-boards.greenhouse.io/strategichr/jobs/8004497003
+- AEGWORLDWIDE: Contract Administrator - Special Events | https://job-boards.greenhouse.io/aegworldwide/jobs/8904348002
+- AEGWORLDWIDE: Contract Administrator - Special Events | https://job-boards.greenhouse.io/aegworldwide/jobs/8904398002
+- LIGHTNINGAI: Head of Global Events & Field Marketing | https://job-boards.greenhouse.io/lightningai/jobs/8007195003
+- LIGHTSPEEDSYSTEMS: Events & Marketing Assistant | https://job-boards.greenhouse.io/lightspeedsystems/jobs/7993734003
