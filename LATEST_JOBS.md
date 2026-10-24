@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- ANDERSENCORP: Field Marketing Manager - Events and Retail  - Kansas City | https://jobs.lever.co/andersencorp/53ff6b82-1f71-4cd9-a349-37d2a7652bcb
-- ANDERSENCORP: Part-Time Events Ambassador - Anchorage, AK | https://jobs.lever.co/andersencorp/c778e17c-b460-4fd6-bc12-54b453e4a388
-- ANDERSENCORP: Part-Time Events Ambassador - Greater Anchorage, AK | https://jobs.lever.co/andersencorp/efa7cbb3-4012-43a2-a70c-5d512b8c65a3
-- ANDERSENCORP: Retail and Event Marketing Promoter - Boston, MA | https://jobs.lever.co/andersencorp/269bb21b-0721-41b5-809f-7bb09c375728
+- ADVERTISINGSPECIALTYINSTITUTE: Events Operations & Engagement Manager  | https://job-boards.greenhouse.io/advertisingspecialtyinstitute/jobs/5462659008
+- ANDERSENCORP: Retail and Event Marketing Promoter - Brainerd, MN | https://jobs.lever.co/andersencorp/301ae1ea-50a1-45cf-bb50-5b2e52ac7f7d
+- ANDERSENCORP: Retail and Event Marketing Promoter - Canonsburg, PA | https://jobs.lever.co/andersencorp/c8aeef06-7255-44cb-bcdd-8a2386204641
+- ANDERSENCORP: Retail and Event Marketing Promoter - Capital Region Fairfax | https://jobs.lever.co/andersencorp/dbc8f211-64f0-4a27-ba83-c3cf4b050b38
