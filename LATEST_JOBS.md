@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- MOVABLEINK: Data Engineer, Event Data | https://movableink.com/job-listing?gh_jid=8127737
-- MOVABLEINK: Senior Data Engineer, Event Data | https://movableink.com/job-listing?gh_jid=7776323
-- ANDERSENCORP: Retail and Event Marketing Promoter - Capital Region Jessup | https://jobs.lever.co/andersencorp/c6ea0e57-1d98-46be-a378-fe8cbc3972ae
-- ANDERSENCORP: Retail and Event Marketing Promoter - Capital Region Rockville | https://jobs.lever.co/andersencorp/42981744-3d46-40a6-9382-7226fe62bf5c
+- AEGWORLDWIDE: Event Crew Lead - PT Internal Only (Crypto.com Arena) | https://job-boards.greenhouse.io/aegworldwide/jobs/8896602002
+- ANDURILINDUSTRIES: Lead Experiential Design Producer | https://boards.greenhouse.io/andurilindustries/jobs/5176659007?gh_jid=5176659007
+- FANATICSCOLLECTIBLES: Senior Software Engineer, Event Data Platform (Growth) | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4219107009
+- FARADAYFUTURE: Key Account Manager, Events & Hospitality, EAI Robotics Regional Sales | https://job-boards.greenhouse.io/faradayfuture/jobs/7819890003
