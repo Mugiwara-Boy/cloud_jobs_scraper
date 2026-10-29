@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- AEGWORLDWIDE: Event Crew Lead - PT Internal Only (Crypto.com Arena) | https://job-boards.greenhouse.io/aegworldwide/jobs/8896602002
-- ANDURILINDUSTRIES: Lead Experiential Design Producer | https://boards.greenhouse.io/andurilindustries/jobs/5176659007?gh_jid=5176659007
-- FANATICSCOLLECTIBLES: Senior Software Engineer, Event Data Platform (Growth) | https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4219107009
-- FARADAYFUTURE: Key Account Manager, Events & Hospitality, EAI Robotics Regional Sales | https://job-boards.greenhouse.io/faradayfuture/jobs/7819890003
+- EXAMPLECORPSANDBOX: Field Marketing Specilaist  | https://job-boards.greenhouse.io/examplecorpsandbox/jobs/4752368
+- EXTRAHOPNETWORKS: Sr. Corporate Events Manager | https://job-boards.greenhouse.io/extrahopnetworks/jobs/6208949004
+- ANDERSENCORP: Retail and Event Marketing Promoter - Cleveland, OH | https://jobs.lever.co/andersencorp/17b0c6e3-db80-4e83-99dd-852c78fabb5e
+- ANDERSENCORP: Retail and Event Marketing Promoter - Des Plaines, IL | https://jobs.lever.co/andersencorp/66c3cf9f-797f-4cb8-b874-6b15bc68f475
