@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- EXAMPLECORPSANDBOX: Field Marketing Specilaist  | https://job-boards.greenhouse.io/examplecorpsandbox/jobs/4752368
-- EXTRAHOPNETWORKS: Sr. Corporate Events Manager | https://job-boards.greenhouse.io/extrahopnetworks/jobs/6208949004
-- ANDERSENCORP: Retail and Event Marketing Promoter - Cleveland, OH | https://jobs.lever.co/andersencorp/17b0c6e3-db80-4e83-99dd-852c78fabb5e
-- ANDERSENCORP: Retail and Event Marketing Promoter - Des Plaines, IL | https://jobs.lever.co/andersencorp/66c3cf9f-797f-4cb8-b874-6b15bc68f475
+- ADYEN: CDD Risk Analyst, Event Driven Reviews | https://job-boards.greenhouse.io/adyen/jobs/8269079
+- ANDERSENCORP: Retail and Event Marketing Promoter - Buffalo, NY | https://jobs.lever.co/andersencorp/6bfe4e9c-b56d-483b-8b08-d0e555295b02
+- ANDERSENCORP: Retail and Event Marketing Promoter - Central Missouri (Columbia) | https://jobs.lever.co/andersencorp/44f41148-093d-42e7-bb7c-9a2f9510218f
+- ANDERSENCORP: Retail and Event Marketing Promoter - Detroit, MI | https://jobs.lever.co/andersencorp/9bbc47f0-caa8-4d42-8523-74e67daf40ed
