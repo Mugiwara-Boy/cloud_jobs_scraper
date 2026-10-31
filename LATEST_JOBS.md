@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- ADYEN: CDD Risk Analyst, Event Driven Reviews | https://job-boards.greenhouse.io/adyen/jobs/8269079
-- ANDERSENCORP: Retail and Event Marketing Promoter - Buffalo, NY | https://jobs.lever.co/andersencorp/6bfe4e9c-b56d-483b-8b08-d0e555295b02
-- ANDERSENCORP: Retail and Event Marketing Promoter - Central Missouri (Columbia) | https://jobs.lever.co/andersencorp/44f41148-093d-42e7-bb7c-9a2f9510218f
-- ANDERSENCORP: Retail and Event Marketing Promoter - Detroit, MI | https://jobs.lever.co/andersencorp/9bbc47f0-caa8-4d42-8523-74e67daf40ed
+- ALUMNIVENTURES: Manager, Capital Events | https://job-boards.greenhouse.io/alumniventures/jobs/4474916009
+- ANDERSENCORP: Retail and Event Marketing Promoter - Fort Myers, FL | https://jobs.lever.co/andersencorp/b9d74ed2-c2cb-45b2-9793-7f4f11658447
+- ANDERSENCORP: Retail and Event Marketing Promoter - Friendsville, MD | https://jobs.lever.co/andersencorp/2b5efd63-ab7b-4095-bccd-ca78f12dbfdb
+- ANDERSENCORP: Retail and Event Marketing Promoter - Grand Rapids, MI | https://jobs.lever.co/andersencorp/97ca5d76-94af-4eee-a3d6-a8dbe31f6a3b
