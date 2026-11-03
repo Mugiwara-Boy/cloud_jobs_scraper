@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- ALUMNIVENTURES: Manager, Capital Events | https://job-boards.greenhouse.io/alumniventures/jobs/4474916009
-- ANDERSENCORP: Retail and Event Marketing Promoter - Fort Myers, FL | https://jobs.lever.co/andersencorp/b9d74ed2-c2cb-45b2-9793-7f4f11658447
-- ANDERSENCORP: Retail and Event Marketing Promoter - Friendsville, MD | https://jobs.lever.co/andersencorp/2b5efd63-ab7b-4095-bccd-ca78f12dbfdb
-- ANDERSENCORP: Retail and Event Marketing Promoter - Grand Rapids, MI | https://jobs.lever.co/andersencorp/97ca5d76-94af-4eee-a3d6-a8dbe31f6a3b
+- AGODA: Senior Specialist/Associate Manager, Event & Experiential Marketing (Bangkok Based, relocation provided) | https://job-boards.greenhouse.io/agoda/jobs/8349269
+- ANDERSENCORP: Retail and Event Marketing Promoter - Greater Boston, MA | https://jobs.lever.co/andersencorp/8b7d59f9-b5b4-446a-9683-eb1b8528a73f
+- ANDERSENCORP: Retail and Event Marketing Promoter - Greater Chicago | https://jobs.lever.co/andersencorp/615ad458-97e0-4ef8-a4dd-ffb00db26658
+- ANDERSENCORP: Retail and Event Marketing Promoter - Greater Detroit, MI | https://jobs.lever.co/andersencorp/029b0527-4856-4377-bb24-e191adf69b1f
