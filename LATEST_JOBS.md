@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- A16Z: Partner 22, New York Events Space Lead | https://a16z.com/about/jobs/?gh_jid=8184381003
-- AETHOSHOTELS: Member Events Manager - AETHOS Lisbon | https://jobs.lever.co/aethoshotels/1c8373ea-44aa-4375-8915-f98bd518014c
-- ANDERSENCORP: Retail and Event Marketing Promoter - Lenexa, KS | https://jobs.lever.co/andersencorp/93b3b928-2fce-4f24-84a9-5b17cf0939be
-- ANDERSENCORP: Retail and Event Marketing Promoter - Lexington, KY | https://jobs.lever.co/andersencorp/643bef95-5048-4a4e-8bc0-8188e9ac36bc
+- AGODA: [Summer Internship 2027] Marketing Intern, Event & Experiential Marketing | https://job-boards.greenhouse.io/agoda/jobs/8357910
+- ANDERSENCORP: Retail and Event Marketing Promoter - Lockport, IL | https://jobs.lever.co/andersencorp/e4b03396-4600-4b59-91a5-cda730a9d774
+- ANDERSENCORP: Retail and Event Marketing Promoter - Louisville, KY | https://jobs.lever.co/andersencorp/38b4215a-9844-4280-8f87-b526dfe9b3aa
+- ANDERSENCORP: Retail and Event Marketing Promoter - Marshall, MN | https://jobs.lever.co/andersencorp/35f6527a-6aa0-42ae-980c-dad0096507f9
