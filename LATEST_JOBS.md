@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- AGODA: [Summer Internship 2027] Marketing Intern, Event & Experiential Marketing | https://job-boards.greenhouse.io/agoda/jobs/8357910
-- ANDERSENCORP: Retail and Event Marketing Promoter - Lockport, IL | https://jobs.lever.co/andersencorp/e4b03396-4600-4b59-91a5-cda730a9d774
-- ANDERSENCORP: Retail and Event Marketing Promoter - Louisville, KY | https://jobs.lever.co/andersencorp/38b4215a-9844-4280-8f87-b526dfe9b3aa
-- ANDERSENCORP: Retail and Event Marketing Promoter - Marshall, MN | https://jobs.lever.co/andersencorp/35f6527a-6aa0-42ae-980c-dad0096507f9
+- AGENCYWITHIN: Events Associate | https://job-boards.greenhouse.io/agencywithin/jobs/5291577007
+- ANTHROPIC: Marketing Events Manager, International  | https://job-boards.greenhouse.io/anthropic/jobs/5424288008
+- ARCHRIVAL: Field Marketing Manager | https://opportunities.archrival.com/program/22/archrival-careers/8114846?gh_jid=8114846
+- ARMADA: Senior Field Marketing Manager EMEA | https://job-boards.greenhouse.io/armada/jobs/5446182008
