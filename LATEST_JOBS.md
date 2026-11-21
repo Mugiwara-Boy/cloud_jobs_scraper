@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- ARRAY: Senior Field Marketing Manager | https://boards.greenhouse.io/array/jobs/6265107004?gh_jid=6265107004
-- ARTICLEGROUP: Associate Creative Director, Design - Keynotes and Events | https://job-boards.greenhouse.io/articlegroup/jobs/6264413004
-- LINEAR: Field Marketing Manager, Europe | https://jobs.ashbyhq.com/linear/af8d37e8-624a-4f2c-af53-c599b97192a3
-- ABRIDGE: Senior Event Marketer | https://jobs.ashbyhq.com/Abridge/f180b849-6ccd-48e7-921e-eaec5556b196
+- ACCENTUREFEDERALSERVICES: Forge Event Senior Analyst | https://boards.greenhouse.io/accenturefederalservices/jobs/4731171006?gh_jid=4731171006
+- ANDURILINDUSTRIES: Global Event Security Lead | https://boards.greenhouse.io/andurilindustries/jobs/5301312007?gh_jid=5301312007
+- ANDURILINDUSTRIES: Global Event Security Lead | https://boards.greenhouse.io/andurilindustries/jobs/5302769007?gh_jid=5302769007
+- AMBIENCEHEALTHCARE: Senior Manager, Strategic Events | https://jobs.ashbyhq.com/ambiencehealthcare/a8c2094e-22b8-4224-b03a-0b92d597536b
