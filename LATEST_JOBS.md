@@ -1,6 +1,6 @@
 # LATEST JOBS TO BE PROCESSED BY CLAUDE
 
-- ABNORMALSECURITY: Strategic Events Manager, APJ | https://abnormal.ai/careers/jobs/8214599003?gh_jid=8214599003
-- APPIAN: Field Marketing Specialist | https://job-boards.greenhouse.io/appian/jobs/8412529
-- ATBAYJOBS: Cyber Advisor, Post-Cyber Event Hardening | https://job-boards.greenhouse.io/atbayjobs/jobs/7710066003
-- AIPCONNECT: Experiential Conceptor | https://jobs.lever.co/aipconnect/8390a892-3d50-4258-9e2d-4951092e3e24
+- AIPCONNECT: Experiential Designer | https://jobs.lever.co/aipconnect/282325a8-595e-468e-884c-c955c663a416
+- AMPLITUDE: Senior Field Marketing Manager | https://jobs.ashbyhq.com/amplitude/8ca92980-f59f-4375-8cf9-94fa0baae2f3
+- AMPLITUDE: Director, Americas Field Marketing | https://jobs.ashbyhq.com/amplitude/84159dfb-a06f-452f-a7ee-d2388d6e2530
+- BASETEN: Field Marketing Manager | https://jobs.ashbyhq.com/baseten/c6e86fec-9412-4d47-b23c-19da03003364
